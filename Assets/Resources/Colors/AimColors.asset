@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60a916463b3ba22479e4e83dd906bcf3, type: 3}
+  m_Name: AimColors
+  m_EditorClassIdentifier: 
+  neutralColor: {r: 0.39767405, g: 0.8018868, b: 0.39716092, a: 1}
+  collidedColor: {r: 0.8773585, g: 0.7185237, b: 0.31038627, a: 1}
+  aimedColor: {r: 0.764151, g: 0.29235047, b: 0.16220188, a: 1}
